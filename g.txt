@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 uyfuyf
 =======
 iugiug
 >>>>>>> first
+=======
+iugiug
+>>>>>>> 2b8262d (commit 5)
