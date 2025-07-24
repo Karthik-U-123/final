@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 ytfycdf
 =======
 hdfoih
 >>>>>>> first
-=======
-hdfoih
->>>>>>> 2b8262d (commit 5)
